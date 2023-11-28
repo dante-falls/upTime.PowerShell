@@ -21,11 +21,11 @@ Click on the medium article above to learn how to use the script. I will also de
 
 <p align="center">
 Locally check the Uptime of the computer you want to test: <br/>
-<img src="https://miro.medium.com/v2/resize:fit:3616/format:webp/1*aqv-dKMA9bV4xHiDDSYxZQ.png" height="300%" width="300%" alt="appCrash Demonstration"/>
+<img src="https://miro.medium.com/v2/resize:fit:3616/format:webp/1*aqv-dKMA9bV4xHiDDSYxZQ.png" height="300%" width="300%" alt="upTime Demonstration"/>
 <br />
 <br />
 Run The upTime.ps1 Script From The PowerShell Command Line On Your Domain Controller. Our script successfully retrieved the uptime of the remote comupter:  <br/>
-<img src="https://miro.medium.com/v2/resize:fit:3322/format:webp/1*WtlyDa54i5AhpQrbuklDWg.png" height="300%" width="300%" alt="appCrash Demonstration"/>
+<img src="https://miro.medium.com/v2/resize:fit:3322/format:webp/1*WtlyDa54i5AhpQrbuklDWg.png" height="300%" width="300%" alt="upTime Demonstration"/>
 <br />
 <br />
 </p>
